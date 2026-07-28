@@ -27,10 +27,13 @@ Unlike many AI demo apps, **Lenscribe doesn't require you to hardcode an API key
 
 ## 📱 Screenshots
 
-| Home | Editor | AI Response |
-|------|--------|-------------|
-| *Add Screenshot* | *Add Screenshot* | *Add Screenshot* |
+## 📸 Create Frame
 
+<p align="center">
+  <img src="Screenshots/create-frame.png" width="320">
+</p>
+
+Create beautiful photo frames with customizable fonts and styles before generating AI-powered captions.
 ## 🚀 Getting Started
 
 ### Requirements
