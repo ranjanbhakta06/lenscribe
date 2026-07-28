@@ -27,6 +27,14 @@ Unlike many AI demo apps, **Lenscribe doesn't require you to hardcode an API key
 
 ## 📱 Screenshots
 
+## 🏠 Home
+
+<p align="center">
+  <img src="Screenshots/home.PNG" width="320">
+</p>
+
+Start by selecting a photo from your library or capturing a new one. Lenscribe provides quick access to Settings, Project History, and your creative workflow from a clean, native SwiftUI interface.
+
 ## 📸 Create Frame
 
 <p align="center">
@@ -36,7 +44,39 @@ Unlike many AI demo apps, **Lenscribe doesn't require you to hardcode an API key
   
 </p>
 
-Create beautiful photo frames with customizable fonts and styles before generating AI-powered captions.
+Transform your photos into beautifully styled frames with customizable fonts, layouts, and visual themes. Fine-tune the presentation before generating AI-powered captions and descriptions.
+
+## 🤖 AI Caption Generation
+
+<p align="center">
+  <img src="Screenshots/ai-caption.PNG" width="320">
+</p>
+
+Generate engaging captions and detailed image descriptions with AI. Choose from built-in prompt presets such as **Cinematic**, **Aesthetic**, **Travel**, and **Funny**, or write your own custom prompt for complete creative control.
+
+## 🎨 Photo Editor
+
+<p align="center">
+  <img src="Screenshots/editor.PNG" width="320">
+</p>
+
+Edit your photos directly within Lenscribe using built-in filters and professional adjustment controls. Fine-tune exposure, contrast, saturation, warmth, and more before sharing or analysing your image.
+
+## 🔐 API Key Configuration
+
+<p align="center">
+  <img src="Screenshots/settings.PNG" width="320">
+</p>
+
+Configure your AI API key directly from the Settings screen. No source code changes are required, making the project easy to set up while keeping your credentials private and stored locally on your device.
+
+## 📚 Project History
+
+<p align="center">
+  <img src="Screenshots/history.PNG" width="320">
+</p>
+
+Access every previously created project from the History screen. Saved frames, captions, and generated content remain available, making it easy to revisit, reuse, or continue your work.
 ## 🚀 Getting Started
 
 ### Requirements
