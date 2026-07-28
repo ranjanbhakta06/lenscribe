@@ -1,5 +1,17 @@
 # 📸 Lenscribe
 
+Turn your photos into beautifully framed images, edit them with built-in tools, and generate AI-powered captions—all in a native SwiftUI experience.
+
+<p align="center">
+  <img src="Exports/hero-1.jpg" width="48%">
+  <img src="Exports/hero-2.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="Exports/hero-3.jpg" width="48%">
+  <img src="Exports/hero-4.jpg" width="48%">
+</p>
+
 **Lenscribe** is a native iOS application built with **SwiftUI** that combines powerful AI image analysis with intuitive photo editing tools.
 Capture a photo or choose one from your photo library, enhance it with built-in editing controls, and analyse it using AI—all in one seamless experience.
 Unlike many AI demo apps, **Lenscribe doesn't require you to hardcode an API key**. Simply enter your own API key within the app and start using it immediately.
